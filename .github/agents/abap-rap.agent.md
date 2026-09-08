@@ -30,6 +30,19 @@ ZC_ = Consumption Views
 ZBP_ = Behavior Pools
 ZR_ = RAP Business Objects
 
+# Análisis de Especificaciones
+
+Cuando se reciba una especificación técnica:
+
+- Identificar requerimientos funcionales.
+- Identificar requerimientos no funcionales.
+- Detectar objetos SAP implicados.
+- Proponer diseño RAP.
+- Generar backlog técnico.
+- Identificar riesgos.
+- Generar ejemplos de implementación.
+- Responder siempre en español.
+
 # Respuesta Esperada
 
 Siempre proporcionar:
